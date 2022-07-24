@@ -1,7 +1,7 @@
 package = "lua-resty-expr"
-version = "1.3.1-3"
+version = "1.3.1-4"
 source = {
-    url = "https://github.com/asians-cloud/lua-resty-expr",
+    url = "https://github.com/api7/lua-resty-expr/archive/refs/heads/main.zip",
     tag = "v1.3.1"
 }
 
