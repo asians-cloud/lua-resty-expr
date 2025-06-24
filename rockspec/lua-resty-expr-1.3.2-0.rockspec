@@ -1,8 +1,8 @@
-package = "lua-resty-expr-main"
-version = "0-0"
+package = "lua-resty-expr"
+version = "1.3.2-0"
 source = {
-    url = "https://github.com/api7/lua-resty-expr",
-    branch = "main",
+    url = "git://github.com/api7/lua-resty-expr",
+    tag = "v1.3.2"
 }
 
 description = {
@@ -15,7 +15,6 @@ description = {
 dependencies = {
     "lua-resty-ipmatcher = 0.6.1"
 }
-
 
 build = {
    type = "builtin",
